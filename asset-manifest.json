@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/ip-finder/static/js/main.83b48e8a.js",
+    "index.html": "/ip-finder/index.html",
+    "main.83b48e8a.js.map": "/ip-finder/static/js/main.83b48e8a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.83b48e8a.js"
+  ]
+}
